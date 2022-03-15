@@ -14,7 +14,7 @@
  3- Revise o seu planejamento
  4- Verifique o prazo do seu projeto
  
- Exercício 1
+                             Exercício 1
 Cartão 1
 Titulo: Mostrar as ofertas
 Descrição: O site irá mostrar as ofertas disponíveis para seus usuários.
@@ -30,3 +30,18 @@ Descrição: O site irá mostrar as ofertas disponíveis para seus usuários.
 Cartão 5
 Titulo: Serviço de translado e hospedagem 
 Descrição:  O cliente poderá comprar o Serviço vip que irá permiti-lo uma hospedagem e acomodação 5 estrelas e sua locomoção até o mesmo.  
+
+
+                             Exercício 2
+1-Escolha um assento
+O Usuário poderá ser capaz de escolher sua poltrona entre corredor de janela. 
+O mesmo poderá ver em tempo real quais poltronas se encontra vazias 
+
+2-Mudar assento
+Ser capaz de selecionar exatamente qual assento ele deseja 
+O usuário pode ser capaz de mudar de assento em até 24 horas de antecedência.
+
+3- solicitar alimentação durante o voo
+Cliente deve ser capaz de escolher dentro de 3 opções de refeição a qual será servida.
+4 – indicar opção alimentar
+Usuário deverá ser capaz de indicar opção alimentar sendo ele vegetariano ou vegano.  
