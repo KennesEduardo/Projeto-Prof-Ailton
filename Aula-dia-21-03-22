@@ -1,0 +1,70 @@
+Montar um plano de desemvolvimento. 
+
+Nossa estimativa de: 489 dias         o que o cliente quer: 90 dias
+
+cliente sempre define as prioridades 
+matenha o foco noi cliente quem decide sempre é ele. 
+
+versão 1.0 
+Primeira entrega do software funcionak 
+
+Onde o cliente vai dar seu primeiro Feedback.
+
+Dicas:
+equilibre as funcionalidades com a impaciencia do cliente.
+-Tudo que ficar de fora, virá na verção seguinte. 
+Não coloque coisas extras que seriam interessantes de ter nessa versão.
+Não se preocupe com a duiração dos casos de uso
+Preocupe-se com o que é mais importante para o cliente. 
+
+MVP- produto viavel mínimo.
+
+repriorizando
+Remova funcionalidades
+Lance uma versão intermediária o mais cedo possivel
+Foque na funcionalidade básica
+
+versão 1. 
+ter codido que copila, ter 100% do que o cliente pediu, o cliente tem que estar utilizando.
+sempre fixa o prazo não utrapasse ele. 
+
+Titulo: Reservar uma viagem espacial: 10
+Pagar com cc/paypal:10
+solicitar refeições a bordo: 10
+pagar usando milhas espacial: 20
+ver avaliação de voos 30
+ver milhas disponiveis 30
+gerenciar ofertar de vôos 30
+escolher assento 30
+logar no programa Astronauta freuqente 40
+cadastrar no programa atronauta frequente 40
+Ver promoções de voo prioridade 50
+ver reviwe do voo 50
+
+1 MÊS
+Reservar uma viagem espacial: P10, 13 dias
+Pagar com CC/Paypal: P10, 15 dias
+Solicitar refeições a bordo: P10, 13 dias
+Pagar usando milhas espacial: P20, 15 dias 
+_____________________________________________
+Total:19 dias
+
+2 mês
+Ver avaliação de voos P30, 12 dias
+Ver milhas disponiveis P30, 14 dias
+Gerenciar ofertar de vôos P30, 13 dias
+Escolher assento P30, 12 dias
+______________________________________________
+
+3 Mes
+Total: 17 dias
+Logar no programa Astronauta freuqente P40, 15 dias
+Cadastrar no programa atronauta frequente P40, 14 dias
+Ver promoções de voo prioridade, P50, 12 dias
+Ver reviwe do voo P50, 13 dias
+____________________________________________
+total: 18 dais
+
+
+
+
